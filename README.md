@@ -14,3 +14,6 @@
 4. Run in the terminal the command: "npm run dev".
 5. Open the provided local URL in your browser (usually http://localhost:5173).
 
+
+* The project took me a long time, as I had many alarms during the day and had to go to the neighborhood shelter. As a result, I can't say exactly how much time I spent on each part.
+
